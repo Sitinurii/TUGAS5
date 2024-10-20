@@ -1,0 +1,4 @@
+umur = 15
+if umur >= 17: print("Anda sudah cukup umur untuk mengendarai mobil.")
+else:
+    print("Anda belum cukup umur untuk mengendarai mobil.")
