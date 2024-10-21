@@ -1,0 +1,7 @@
+my_list = [1,2,3,4,1,2]
+panjang_my_list = len(my_list)
+print("my_list: ",panjang_my_list)
+print("panjang list : ", my_list)
+print("panggil index ke 5: ", my_list[5])
+my_list.append("mantap")
+print("my_list setelah diinput nilai baru: ", my_list)
