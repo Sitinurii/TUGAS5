@@ -1,0 +1,10 @@
+my_dist = {
+    "nama"  : "Nuri",
+    "umur"  :  18,
+    "asal"  :  "Lombok"
+}   
+print(my_dist["nama"])
+print(my_dist["umur"])
+print( my_dist["asal"])
+
+print(my_dist)  
